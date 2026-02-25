@@ -2,6 +2,9 @@
 
 A fully responsive, retro-cartoon themed Sudoku game built with React and Tailwind CSS. This project was developed as a modern, interactive web application featuring custom difficulty levels, dynamic puzzle generation, and real-time game logic validation.
 
+> **🤖 AI-Assisted Development**
+> This application was collaboratively designed and built using **Google's Antigravity AI Agent**, demonstrating a modern AI pair-programming workflow and rapid application development!
+
 ## ✨ Features
 
 * **Retro Cartoon Aesthetic**: Custom Tailwind configurations utilizing bold borders, deep drop shadows, and vibrant colors to create a playful, arcade-style experience.
