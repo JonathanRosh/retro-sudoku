@@ -26,7 +26,7 @@ A fully responsive, retro-cartoon themed Sudoku game built with React and Tailwi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/retro-sudoku.git
+   git clone https://github.com/JonathanRosh/retro-sudoku.git
    ```
 2. **Navigate to the project directory:**
    ```bash
